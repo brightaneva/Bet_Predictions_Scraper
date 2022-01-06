@@ -1,0 +1,17 @@
+{
+    "home_team": "Persipura Jayapura",
+    "away_team": "Persela Lamongan",
+    "start_date": null,
+    "probability": {
+        "1": ">",
+        "X": "X",
+        "2": "2"
+    },
+    "actual_win": "1",
+    "correct_score": "\n",
+    "average_score": "Avg. goals",
+    "odds": "2.10",
+    "time_played": "Es5",
+    "current_scores": null,
+    "live_odds": "\n"
+}
