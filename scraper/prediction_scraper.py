@@ -17,7 +17,7 @@ class Predict_Match_spider(scrapy.Spider):
 		#download the page
 		#and send it to self.parse
 
-		yield scrapy.Request(url="https://m.forebet.com/en/football-tips-and-predictions-for-today",
+		yield scrapy.Request(url="https://forebet.com/en/football-tips-and-predictions-for-today",
 			callback = self.parse)
 
 
@@ -116,6 +116,7 @@ class Predict_Match_spider(scrapy.Spider):
 
 			self.results.append(dict)
 
+
 		return self.results
 
 	def close(self, spider):
@@ -160,7 +161,3 @@ class Bet_Scraper:
 
 
 
-if __name__ == "__main__":
-	process = cp(settings={'LOG_ENABLED': False})
-	process.crawl(Predict_Match_spider)
-	process.start()
