@@ -28,7 +28,7 @@ class Predict_Match_spider(scrapy.Spider):
 
 		#details section seperated to 
 		#avoid most of the code crashing
-		section1_matches = response.xpath('//div[@class="schema"]/div[@class="rcnt tr_0"]')
+		section1_matches = response.xpath('///div[@class="rcnt tr_0"]')
 		section2_matches = response.xpath('//div[@class="rcnt tr_1"]')
 
 		self.results = []
