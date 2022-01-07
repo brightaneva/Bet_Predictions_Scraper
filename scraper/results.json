@@ -1,259 +1,17 @@
 [
     {
-        "home": "Jazira Abu Dhabi",
-        "away": "Al Ahli Dubai",
-        "date_time": "07/01/2022 16:45",
-        "probability_percentage": {
-            "1x": "44",
-            "X": "14",
-            "2x": "42"
-        },
-        "winner": "2",
-        "avg.goals": "2.33",
-        "correct_score": "0 - 1",
-        "odds": "2.40",
-        "live_scores": null,
-        "live_odds": null
-    },
-    {
-        "home": "Al Suwaiq",
-        "away": "Rustaq Club",
-        "date_time": "07/01/2022 17:00",
-        "probability_percentage": {
-            "1x": "48",
-            "X": "29",
-            "2x": "48"
-        },
-        "winner": "X",
-        "avg.goals": "1.21",
-        "correct_score": "1 - 1",
-        "odds": "3.20",
-        "live_scores": null,
-        "live_odds": null
-    },
-    {
-        "home": "Dakar Sacr\u00e9-C\u0153ur",
-        "away": "Gu\u00e9diawaye FC",
-        "date_time": "07/01/2022 17:30",
-        "probability_percentage": {
-            "1x": "42",
-            "X": "37",
-            "2x": "42"
-        },
-        "winner": "X",
-        "avg.goals": "2.38",
-        "correct_score": "1 - 1",
-        "odds": "2.75",
-        "live_scores": null,
-        "live_odds": null
-    },
-    {
-        "home": "Nasr Salalah",
-        "away": "Al Ittihad Salalah",
-        "date_time": "07/01/2022 17:35",
-        "probability_percentage": {
-            "1x": "47",
-            "X": "47",
-            "2x": "36"
-        },
-        "winner": "1",
-        "avg.goals": "1.93",
-        "correct_score": "1 - 0",
-        "odds": " - ",
-        "live_scores": null,
-        "live_odds": null
-    },
-    {
-        "home": "Trabzonspor",
-        "away": "Yeni Malatyaspor",
-        "date_time": "07/01/2022 18:00",
-        "probability_percentage": {
-            "1x": "71",
-            "X": "71",
-            "2x": "18"
-        },
-        "winner": "1",
-        "avg.goals": "2.35",
-        "correct_score": "2 - 0",
-        "odds": "1.44",
-        "live_scores": null,
-        "live_odds": null
-    },
-    {
-        "home": "ASIL Lysi",
-        "away": "EN Paralimni",
-        "date_time": "07/01/2022 18:00",
-        "probability_percentage": {
-            "1x": "62",
-            "X": "15",
-            "2x": "22"
-        },
-        "winner": "2",
-        "avg.goals": "2.47",
-        "correct_score": "0 - 2",
-        "odds": "1.36",
-        "live_scores": null,
-        "live_odds": "-"
-    },
-    {
-        "home": "CA Bastia",
-        "away": "LB Ch\u00e2teauroux",
-        "date_time": "07/01/2022 18:30",
-        "probability_percentage": {
-            "1x": "60",
-            "X": "16",
-            "2x": "24"
-        },
-        "winner": "2",
-        "avg.goals": "2.33",
-        "correct_score": "0 - 2",
-        "odds": "2.00",
-        "live_scores": null,
-        "live_odds": "-"
-    },
-    {
-        "home": "Stade Briochin",
-        "away": "US Boulogne",
-        "date_time": "07/01/2022 18:30",
-        "probability_percentage": {
-            "1x": "46",
-            "X": "46",
-            "2x": "28"
-        },
-        "winner": "1",
-        "avg.goals": "1.75",
-        "correct_score": "1 - 0",
-        "odds": "2.45",
-        "live_scores": null,
-        "live_odds": "2.56"
-    },
-    {
-        "home": "Helmond Sport",
-        "away": "FC Dordrecht",
-        "date_time": "07/01/2022 18:45",
-        "probability_percentage": {
-            "1x": "44",
-            "X": "44",
-            "2x": "31"
-        },
-        "winner": "1",
-        "avg.goals": "3.21",
-        "correct_score": "2 - 1",
-        "odds": "1.89",
-        "live_scores": null,
-        "live_odds": "-"
-    },
-    {
-        "home": "CD Santa Clara",
-        "away": "Sporting CP",
-        "date_time": "07/01/2022 19:30",
-        "probability_percentage": {
-            "1x": "71",
-            "X": "12",
-            "2x": "17"
-        },
-        "winner": "2",
-        "avg.goals": "2.48",
-        "correct_score": "0 - 2",
-        "odds": "1.40",
-        "live_scores": null,
-        "live_odds": "-"
-    },
-    {
-        "home": "Bayern M\u00fcnchen",
-        "away": "M\u00f6nchengladbach",
-        "date_time": "07/01/2022 20:30",
-        "probability_percentage": {
-            "1x": "67",
-            "X": "67",
-            "2x": "18"
-        },
-        "winner": "1",
-        "avg.goals": "3.21",
-        "correct_score": "3 - 0",
-        "odds": "1.24",
-        "live_scores": null,
-        "live_odds": "-"
-    },
-    {
-        "home": "Uniao Leiria",
-        "away": "CD Cova Piedade",
-        "date_time": "07/01/2022 20:30",
-        "probability_percentage": {
-            "1x": "54",
-            "X": "54",
-            "2x": "35"
-        },
-        "winner": "1",
-        "avg.goals": "2.21",
-        "correct_score": "2 - 0",
-        "odds": " - ",
-        "live_scores": null,
-        "live_odds": null
-    },
-    {
-        "home": "Glenavon",
-        "away": "Crusaders Belfast",
-        "date_time": "07/01/2022 20:45",
-        "probability_percentage": {
-            "1x": "47",
-            "X": "21",
-            "2x": "32"
-        },
-        "winner": "2",
-        "avg.goals": "2.31",
-        "correct_score": "0 - 1",
-        "odds": " - ",
-        "live_scores": null,
-        "live_odds": null
-    },
-    {
-        "home": "Girondins Bordeaux",
-        "away": "Olympique Marseille",
-        "date_time": "07/01/2022 21:00",
-        "probability_percentage": {
-            "1x": "52",
-            "X": "17",
-            "2x": "31"
-        },
-        "winner": "2",
-        "avg.goals": "2.49",
-        "correct_score": "0 - 2",
-        "odds": "2.10",
-        "live_scores": null,
-        "live_odds": "-"
-    },
-    {
-        "home": "SD Amorebieta",
-        "away": "CD Tenerife",
-        "date_time": "07/01/2022 21:00",
-        "probability_percentage": {
-            "1x": "53",
-            "X": "16",
-            "2x": "31"
-        },
-        "winner": "2",
-        "avg.goals": "2.50",
-        "correct_score": "1 - 2",
-        "odds": "2.10",
-        "live_scores": null,
-        "live_odds": "-"
-    },
-    {
         "home": "CD Tapatio",
         "away": "Zacatecas",
         "date_time": "08/01/2022 00:00",
         "probability_percentage": {
-            "1x": "51",
-            "X": "23",
-            "2x": "25"
+            "1x": "23",
+            "X": "25",
+            "2x": "51"
         },
         "winner": "2",
         "avg.goals": "0.90",
         "correct_score": "0 - 1",
-        "odds": "3.00",
-        "live_scores": null,
-        "live_odds": "-"
+        "odds": "3.00"
     },
     {
         "home": "Ashanti GB",
@@ -261,46 +19,110 @@
         "date_time": "08/01/2022 00:00",
         "probability_percentage": {
             "1x": "52",
-            "X": "52",
-            "2x": "27"
+            "X": "27",
+            "2x": "22"
         },
         "winner": "1",
         "avg.goals": "1.13",
         "correct_score": "1 - 0",
-        "odds": " - ",
-        "live_scores": null,
-        "live_odds": null
+        "odds": " - "
     },
     {
         "home": "Flamme Olympique",
         "away": "Loubha T\u00e9lim\u00e9l\u00e9",
         "date_time": "08/01/2022 00:00",
         "probability_percentage": {
-            "1x": "38",
-            "X": "27",
-            "2x": "38"
+            "1x": "27",
+            "X": "38",
+            "2x": "35"
         },
         "winner": "X",
         "avg.goals": "3.17",
         "correct_score": "2 - 2",
-        "odds": " - ",
-        "live_scores": null,
-        "live_odds": null
+        "odds": " - "
     },
     {
         "home": "FC Ju\u00e1rez",
         "away": "Club Necaxa",
         "date_time": "08/01/2022 02:00",
         "probability_percentage": {
-            "1x": "36",
-            "X": "33",
-            "2x": "36"
+            "1x": "33",
+            "X": "36",
+            "2x": "31"
         },
         "winner": "X",
         "avg.goals": "0.79",
         "correct_score": "0 - 0",
-        "odds": "3.10",
-        "live_scores": null,
-        "live_odds": "-"
+        "odds": "3.10"
+    },
+    {
+        "home": "Bayern M\u00fcnchen",
+        "away": "M\u00f6nchengladbach",
+        "date_time": "07/01/2022 20:30",
+        "probability_percentage": {
+            "1x": null,
+            "X": null,
+            "2x": null
+        },
+        "winner": "1",
+        "avg.goals": null,
+        "correct_score": null,
+        "odds": null
+    },
+    {
+        "home": "Swindon Town",
+        "away": "Manchester City",
+        "date_time": "07/01/2022 21:00",
+        "probability_percentage": {
+            "1x": null,
+            "X": null,
+            "2x": null
+        },
+        "winner": null,
+        "avg.goals": null,
+        "correct_score": null,
+        "odds": null
+    },
+    {
+        "home": "Satellite FC (GUI)",
+        "away": "Fello Star",
+        "date_time": "08/01/2022 00:00",
+        "probability_percentage": {
+            "1x": "31",
+            "X": "25",
+            "2x": "44"
+        },
+        "winner": "2",
+        "avg.goals": "1.92",
+        "correct_score": "0 - 1",
+        "odds": " - "
+    },
+    {
+        "home": "Horoya AC",
+        "away": "CO Coyah",
+        "date_time": "08/01/2022 00:00",
+        "probability_percentage": {
+            "1x": "51",
+            "X": "34",
+            "2x": "15"
+        },
+        "winner": "1",
+        "avg.goals": "1.88",
+        "correct_score": "1 - 0",
+        "odds": " - "
+    },
+    {
+        "home": "AS Kaloum Star",
+        "away": "Hafia FC",
+        "date_time": "08/01/2022 00:00",
+        "probability_percentage": {
+            "1x": "26",
+            "X": "34",
+            "2x": "40"
+        },
+        "winner": "2",
+        "avg.goals": "2.22",
+        "correct_score": "0 - 2",
+        "odds": " - "
     }
 ]

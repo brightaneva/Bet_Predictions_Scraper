@@ -61,17 +61,14 @@ class Predict_Match_spider(scrapy.Spider):
 			"home": teams.xpath('div/a/span[@class="homeTeam"]/span/text()').get(),
 			"away": teams.xpath('div/a/span[@class="awayTeam"]/span/text()').get(),
 			"date_time" : teams.xpath('div/a/time/span/text()').get(),
-			"probability_percentage" : {"1x": prob.xpath('span[@class="fpr"]/text()').get(),
-			"X" : prob.xpath('span[1]/text()').get(),
-			"2x" : prob.xpath('span[2]/text()').get(),
+			"probability_percentage" : {"1x": prob.xpath('span[1]/text()').get(),
+			"X" : prob.xpath('span[2]/text()').get(),
+			"2x" : prob.xpath('span[3]/text()').get(),
 			},
 			"winner" : team_win2 if not team_win1 else team_win1,
 			"avg.goals" : correct1 if not correct else correct,
 			"correct_score" : y.xpath('div[@class="ex_sc tabonly"]/text()').get(),
 			"odds" : y.xpath('div[@class="bigOnly prmod"]/span/text()').get(),
-			#live events
-			"live_scores" : y.xpath('div[@class="lscr_td lResTdSmall"]/span/b/text()').get(), 
-			"live_odds" : y.xpath('div[@class="la_prmod tabonly"]/span/text()').get(),
 			}
 
 			self.results.append(dict)
@@ -101,17 +98,14 @@ class Predict_Match_spider(scrapy.Spider):
 			"home": teams.xpath('div/a/span[@class="homeTeam"]/span/text()').get(),
 			"away": teams.xpath('div/a/span[@class="awayTeam"]/span/text()').get(),
 			"date_time" : teams.xpath('div/a/time/span/text()').get(),
-			"probability_percentage" : {"1x": prob.xpath('span[@class="fpr"]/text()').get(),
-			"X" : prob.xpath('span[1]/text()').get(),
-			"2x" : prob.xpath('span[2]/text()').get(),
+			"probability_percentage" : {"1x": prob.xpath('span[1]/text()').get(),
+			"X" : prob.xpath('span[2]/text()').get(),
+			"2x" : prob.xpath('span[3]/text()').get(),
 			},
 			"winner" : team_win2 if not team_win1 else team_win1,
 			"avg.goals" : correct1 if not correct else correct,
 			"correct_score" : x.xpath('div[@class="ex_sc tabonly"]/text()').get(),
 			"odds" : x.xpath('div[@class="bigOnly prmod"]/span/text()').get(),
-			#live update
-			"live_scores" : x.xpath('div[@class="lscr_td lResTdSmall"]/b/text()').get(),
-			"live_odds" : x.xpath('div[@class="la_prmod tabonly"]/span/text()').get()
 			}
 
 			self.results.append(dict)
@@ -121,8 +115,8 @@ class Predict_Match_spider(scrapy.Spider):
 
 	def close(self, spider):
 		#Tell class to return only
-		#the result of the output
-		self.output_callback(self.results)
+		#the result of the output 
+		  self.output_callback(self.results)
 
 
 
